@@ -4,8 +4,8 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 ## Índice  📰
 1. [Pre-Requisitos](#Pre-Requisitos-pencil)
 2. [Paso 1. Datos de configuración](#Paso-1)
-3. [Paso 1. Habilitar el entorno gráfico de una VSI Linux](#Paso-2)
-4. [Paso 2. Acceder al entorno gráfico](#Paso-3)
+3. [Paso 2. Habilitar el entorno gráfico de una VSI Linux](#Paso-2)
+4. [Paso 3. Acceder al entorno gráfico](#Paso-3)
 
 ## Pre-requisitos :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
