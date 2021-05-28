@@ -122,7 +122,7 @@ Un vez ha realizado la configuración el paso siguiente es acceder al entorno gr
 
 
 ## Referencias :mag:
-Revise estos enlaces para configurar la contraseña de una VSI Linux en VPC
+Revise estos enlaces para configurar la contraseña de una VSI Linux en VPC.
 * <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-managing-ssh-keys"> Managing SSH Keys</a>.
 * <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-ssh-keys#locating-ssh-keys"> Locating or generating your SSH key</a>.
 * <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-vsi_is_connecting_linux"> Connecting to Linux instances</a>.
