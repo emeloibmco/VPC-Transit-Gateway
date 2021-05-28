@@ -25,7 +25,7 @@ Para realizar la configuración del entorno gráfico de una VSI Linux, debe cont
 3. IP:
 
 > Nota 1: En caso de contar con una VSI Linux en VCP, la IP que se utilizará en este tutorial es la IP Flotante, la cual puede encontrar dentro de su VSI en la sección **Interfaces de red**.
-
+>
 > Nota 2: En caso de contar con una VSI Linux en Infraestructura Clásica, utilice la IP pública, la cual puede encontrar dentro de su VSI en la pestaña **Visión general** y la sección **Detalles de la red.**
 
 ## Paso 2
