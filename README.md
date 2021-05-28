@@ -97,6 +97,8 @@ ssh -L 5901:127.0.0.1:5901 -C -N -l root <IP>
 ```
 Cuando se le solicite ingresar una contraseña coloque la determinada en el [Paso 1. Datos de configuración](#Paso-1). Despues de ingresar la contraseña el proceso en la ventana se quedará cargando y usted habrá finalizado la configuración.
 
+> Nota: Si su VSI Linux está en VPC, deberá agregar una regla de configuración que le permita utilizar el puerto 5901. Para ello, de click en el **Menú de Navegación** y posteriormente en **Infrestructura VPC**. Diríjase a la pestaña de **red** y de click en **Grupos de Seguridad**. Seleccione el grupo de seguridad que está utilizando y luego en la pestaña Reglas, habilite el puerto indicado.
+
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
