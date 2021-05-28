@@ -1,5 +1,5 @@
 # VPC-acceso-VNC 🔐
-Este tutorial se enfoca en como realizar la configuración para habilitar el entorno gráfico de una VSI Linux en VPC. Es válido aclarar que esta configuración también se puede aplicar para una VSI Linux de infraestructura clásica. 
+Este tutorial se enfoca en la configuración necesaria para habilitar el entorno gráfico de una VSI Linux en VPC. Es válido aclarar que esta configuración también se puede aplicar para una VSI Linux de infraestructura clásica. 
 
 ## Índice  📰
 1. [Pre-Requisitos](#Pre-Requisitos-pencil)
