@@ -35,7 +35,7 @@ Para habilitar el entorno gráfico de su VSI Linux, siga los pasos que se muestr
 ``` 
 ssh root@<IP> 
 ```
-Una vez ejecute este comando se le solicitará que coloque la contraseña determinada en el [Paso 1. Datos de configuración](#Paso-1). Verifique que después de colocar la contraseña ya se encuentre dentro de la VSI, de forma similar a ``` root@nombre_vsi:~# ```
+Una vez ejecute este comando se le solicitará que coloque la contraseña determinada en el [Paso 1. Datos de configuración](#Paso-1). Verifique que después de colocar la contraseña ya se encuentre dentro de la VSI. Su ventana de *Windows PowerShell* debe mostrar algo de forma similar a ``` root@nombre_vsi:~# ```
 
 2. Posteriormente debe actualizar la lista de paquetes mediente el comando:
 ```
