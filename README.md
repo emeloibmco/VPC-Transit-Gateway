@@ -70,7 +70,7 @@ vncserver -kill :1
 mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
 ``` 
 
-10. Se crea un nuevo archivo xstartup y se abre en el editor de texto. Para ello se escribe: 
+10. Se crea un nuevo archivo *xstartup* y se abre en el editor de texto. Para ello se escribe: 
 ``` 
 nano ~/.vnc/xstartup
 ``` 
