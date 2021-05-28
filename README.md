@@ -35,9 +35,19 @@ Para habilitar el entorno gráfico de su VSI Linux, siga los pasos que se muestr
 ``` 
 ssh root@<IP> 
 ```
-Una vez coloque este comando se le solicitará que coloque la contraseña determinada en el [Paso 1. Datos de configuración](#Paso-1).
+Una vez ejecute este comando se le solicitará que coloque la contraseña determinada en el [Paso 1. Datos de configuración](#Paso-1). Verifique que después de colocar la contraseña ya se encuentre dentro de la VSI, de forma similar a ``` root@nombre_vsi:~# ```
 
-2. 
+2. Posteriormente debe actualizar la lista de paquetes mediente el comando:
+```
+sudo apt-get update
+```
+
+3. Debe instalar el entorno de escritorio *Xface* con el comando:
+```
+sudo apt install xfce4 xfce4-goodies
+```
+
+
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
