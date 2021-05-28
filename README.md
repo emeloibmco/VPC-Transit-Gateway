@@ -20,7 +20,7 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 Para realizar la configuración del entorno gráfico de una VSI Linux, debe contar con los siguientes datos:
 1. Contraseña:
 
-> Nota 1: En caso de contar con una VSI Linux en VPC, debe realizar de forma previa la respectiva configuración para agregar una nueva contraseña. La ruta que le permite encontrar su VSI en VPC es Menú de Navegación → Infraestructura VPC → Instancias de Servidor Virtual.
+> Nota 1: En caso de contar con una VSI Linux en VPC, debe realizar de forma previa la respectiva configuración para agregar una nueva contraseña. Para realizar esa configuración, revise los enlaces que aparecen en la sección de [Referencias](#Referencias-mag) de este repositorio  La ruta que le permite encontrar su VSI en VPC es Menú de Navegación → Infraestructura VPC → Instancias de Servidor Virtual.
 >
 > Nota 2: En caso de contar con una VSI Linux en Infraestructura Clásica, obtenga la contraseña. Para ello, en el menú de navegación de click en Infraestructura Clásica y posteriormente en el dispositivo que va a configurar. Luego de esto, de click en la pestaña contraseñas y guarde la contraseña.
 
@@ -119,6 +119,9 @@ Un vez ha realizado la configuración el paso siguiente es acceder al entorno gr
 
 4. Finalmente, de click en el botón *ok* y le aparecerá el entorno gráfico de su VSI Linux, de forma similar a la siguiente imagen:
 <p align="center"><img width="700" src="https://github.com/emeloibmco/VPC-acceso-VNC/blob/main/Imagenes/Ventana.PNG"></p>
+
+
+## Referencias :mag:
 
 
 ## Autores ✒
