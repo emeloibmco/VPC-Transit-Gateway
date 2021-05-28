@@ -84,7 +84,7 @@ startxfce4 &
 ```
 Guarde el archivo con ```Ctrl s``` y cierre con ```Ctrl x```
 
-12. Para garantizar que el servidor VNC puede acceder al archivo que acabaos de crear, lo hacemos ejecutable mediante el comando: 
+12. Para garantizar que el servidor VNC puede acceder al archivo que acabamos de crear, lo hacemos ejecutable mediante el comando: 
 ```
 sudo chmod +x ~/.vnc/xstartup
 ```
@@ -105,6 +105,11 @@ Cuando se le solicite ingresar una contraseña coloque la determinada en el [Pas
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
+Un vez ha realizado la configuración el paso siguiente es acceder al entorno gráfico. Para ello, realice los siguientes pasos:
+
+1. Abra el TightVNC Viewer en su máquina. 
+2. 
+
 
 ## Autores ✒
 Equipo IBM Cloud Tech Sales Colombia.
