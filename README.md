@@ -20,7 +20,7 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 Para realizar la configuración del entorno gráfico de una VSI Linux, debe contar con los siguientes datos:
 1. Contraseña:
 
-> Nota 1: En caso de contar con una VSI Linux en VPC, debe realizar de forma previa la respectiva configuración para agregar una nueva contraseña. Para realizar esa configuración, revise los enlaces que aparecen en la sección de [Referencias](#Referencias-mag) de este repositorio  La ruta que le permite encontrar su VSI en VPC es Menú de Navegación → Infraestructura VPC → Instancias de Servidor Virtual.
+> Nota 1: En caso de contar con una VSI Linux en VPC, debe realizar de forma previa la respectiva configuración para agregar una nueva contraseña. Para realizar esa configuración, revise los enlaces que aparecen en la sección de [Referencias](#Referencias-mag) de este repositorio. La ruta que le permite encontrar su VSI en VPC es Menú de Navegación → Infraestructura VPC → Instancias de Servidor Virtual.
 >
 > Nota 2: En caso de contar con una VSI Linux en Infraestructura Clásica, obtenga la contraseña. Para ello, en el menú de navegación de click en Infraestructura Clásica y posteriormente en el dispositivo que va a configurar. Luego de esto, de click en la pestaña contraseñas y guarde la contraseña.
 
@@ -122,6 +122,10 @@ Un vez ha realizado la configuración el paso siguiente es acceder al entorno gr
 
 
 ## Referencias :mag:
+Revise estos enlaces para configurar la contraseña de una VSI Linux en VPC
+* <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-managing-ssh-keys"> Managing SSH Keys</a>.
+* <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-ssh-keys#locating-ssh-keys"> Locating or generating your SSH key</a>.
+* <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-vsi_is_connecting_linux"> Connecting to Linux instances</a>.
 
 
 ## Autores ✒
