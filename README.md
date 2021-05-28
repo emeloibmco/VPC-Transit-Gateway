@@ -108,7 +108,9 @@ Cuando se le solicite ingresar una contraseña coloque la determinada en el [Pas
 Un vez ha realizado la configuración el paso siguiente es acceder al entorno gráfico. Para ello, realice los siguientes pasos:
 
 1. Abra el TightVNC Viewer en su máquina. 
-2. 
+
+
+<p align="center"><img width="700" src="https://github.com/emeloibmco/Microservicios-Backend-CRUD-Mongo/blob/main/Imagenes/Certificado-TLS.gif"></p>
 
 
 ## Autores ✒
