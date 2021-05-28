@@ -10,6 +10,10 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 
 [Paso 3. Acceder al entorno gráfico](#Paso-3)
 
+[Referencias](#Referencias-mag)
+
+[Autores](#Autores-pushpin)
+
 ## Pre-requisitos :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
 * Crear una VSI linux en VPC (también puede ser en infraestructura clásica).
@@ -128,5 +132,5 @@ Revise estos enlaces para configurar la contraseña de una VSI Linux en VPC.
 * <a href="https://cloud.ibm.com/docs/vpc?topic=vpc-vsi_is_connecting_linux"> Connecting to Linux instances</a>.
 
 
-## Autores ✒
+## Autores :pushpin:
 Equipo IBM Cloud Tech Sales Colombia.
