@@ -10,8 +10,7 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 ## Pre-requisitos :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
 * Crear una VSI linux en VPC (también puede ser en infraestructura clásica).
-* En caso de contar con una VSI Linux en VCP, debe realizar de forma previa la respectiva configuración para agregar una nueva contraseña, ya que se utilizará a lo largo de este tutorial. La ruta que le permite encontrar su VSI en VPC es **Menú de Navegación → Infraestructura VPC → Instancias de Servidor Virtual.** Adicionalmente guarde la IP Flotante 
-* En caso de contar con una VSI Linux en infraestructura clásica, obtenga la contraseña. Para ello, en el menú de navegación de click en Infraestructura Clásica y posteriormente en el dispositivo que va a configurar. Luego de esto, de click en la pestaña contraseñas y guarde la contraseña, ya que se utilizarán en este tutorial.
+* Debe tener instalado en su máquina el TightVNC Viewer.
 
 ## Paso 1
 ### Datos de configuración ⚙
