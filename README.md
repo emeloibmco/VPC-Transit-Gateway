@@ -32,7 +32,9 @@ Para realizar la configuración del entorno gráfico de una VSI Linux, debe cont
 ### Habilitar el entorno gráfico de una VSI Linux 🛠
 Para habilitar el entorno gráfico de su VSI Linux, siga los pasos que se muestran a continuación:
 1. Abra una ventana de *Windows PowerShell* en su máquina y establezaca una conexión vía SSH, para ello, utilice el siguiente comando:
-``` ssh root@<IP> ```
+``` 
+ssh root@<IP> 
+```
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
