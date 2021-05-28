@@ -22,7 +22,7 @@ Para realizar la configuración del entorno gráfico de una VSI Linux, debe cont
 >
 > Nota 2: En caso de contar con una VSI Linux en Infraestructura Clásica, obtenga la contraseña. Para ello, en el menú de navegación de click en Infraestructura Clásica y posteriormente en el dispositivo que va a configurar. Luego de esto, de click en la pestaña contraseñas y guarde la contraseña.
 
-3. IP:
+2. IP:
 
 > Nota 1: En caso de contar con una VSI Linux en VCP, la IP que se utilizará en este tutorial es la IP Flotante, la cual puede encontrar dentro de su VSI en la sección **Interfaces de red**.
 >
@@ -32,7 +32,7 @@ Para realizar la configuración del entorno gráfico de una VSI Linux, debe cont
 ### Habilitar el entorno gráfico de una VSI Linux 🛠
 Para habilitar el entorno gráfico de su VSI Linux, siga los pasos que se muestran a continuación:
 1. Abra una ventana de *Windows PowerShell* en su máquina y establezaca una conexión vía SSH, para ello, utilice el siguiente comando:
-2. 
+``` ssh root@<IP> ```
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
