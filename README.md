@@ -3,8 +3,11 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 
 ## Índice  📰
 [Pre-Requisitos](#Pre-Requisitos-pencil)
+
 [Paso 1. Datos de configuración](#Paso-1)
+
 [Paso 2. Habilitar el entorno gráfico de una VSI Linux](#Paso-2)
+
 [Paso 3. Acceder al entorno gráfico](#Paso-3)
 
 ## Pre-requisitos :pencil:
