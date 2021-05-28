@@ -51,7 +51,10 @@ sudo apt install xfce4 xfce4-goodies
 sudo apt install tightvncserver
 ```
 
-5. Una vez finalizada la instalación se realiza la configuración inicial del servidor VNC con el comando ```vncserver```.
+5. Una vez finalizada la instalación se realiza la configuración inicial del servidor VNC con el comando: 
+```
+vncserver
+```
 
 6. Luego, le pedirá introducir y verificar una nueva contraseña, la cual le permitirá acceder al entorno gráfico de su VSI Linux. Asigne una contraseña distinta a la determinada en el [Paso 1. Datos de configuración](#Paso-1) y guardela para utilizarla más adelante.
 
@@ -86,7 +89,10 @@ Guarde el archivo con ```Ctrl s``` y cierre con ```Ctrl x```
 sudo chmod +x ~/.vnc/xstartup
 ```
 
-13. Se debe reiniciar nuevamente el servidor con el comando ```vncserver```.
+13. Se debe reiniciar nuevamente el servidor con el comando: 
+```
+vncserver
+```
 
 14. Para finalizar, en su máquina ejecute el siguiente comando (recuerde colocar en \<IP> la IP pública o flotante según sea el caso): 
 ```
