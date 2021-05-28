@@ -2,17 +2,12 @@
 Este tutorial se enfoca en la configuración necesaria para habilitar el entorno gráfico de una VSI Linux en VPC. Es válido aclarar que esta configuración también se puede aplicar para una VSI Linux de infraestructura clásica. 
 
 ## Índice  📰
-[Pre-Requisitos](#Pre-Requisitos-pencil)
-
-[Paso 1. Datos de configuración](#Paso-1)
-
-[Paso 2. Habilitar el entorno gráfico de una VSI Linux](#Paso-2)
-
-[Paso 3. Acceder al entorno gráfico](#Paso-3)
-
-[Referencias](#Referencias-mag)
-
-[Autores](#Autores-pushpin)
+* [Pre-Requisitos](#Pre-Requisitos-pencil)
+* [Paso 1. Datos de configuración](#Paso-1)
+* [Paso 2. Habilitar el entorno gráfico de una VSI Linux](#Paso-2)
+* [Paso 3. Acceder al entorno gráfico](#Paso-3)
+* [Referencias](#Referencias-mag)
+* [Autores](#Autores-pushpin)
 
 ## Pre-requisitos :pencil:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud</a>.
