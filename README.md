@@ -115,7 +115,7 @@ Un vez ha realizado la configuración el paso siguiente es acceder al entorno gr
 <p align="center"><img width="300" src="https://github.com/emeloibmco/VPC-acceso-VNC/blob/main/Imagenes/AccesoVNC.PNG"></p>
 
 4. Finalmente, de click en el botón *ok* y le aparecerá el entorno gráfico de su VSI Linux, de forma similar a la siguiente imagen:
-5. <p align="center"><img width="700" src="https://github.com/emeloibmco/VPC-acceso-VNC/blob/main/Imagenes/Ventana.PNG"></p>
+<p align="center"><img width="700" src="https://github.com/emeloibmco/VPC-acceso-VNC/blob/main/Imagenes/Ventana.PNG"></p>
 
 
 ## Autores ✒
