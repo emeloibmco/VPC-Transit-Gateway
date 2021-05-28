@@ -82,8 +82,20 @@ nano ~/.vnc/xstartup
 xrdb $HOME/.Xresources
 startxfce4 &
 ```
+Guarde el archivo con ```Ctrl s``` y cierre con ```Ctrl x```
 
-12. 
+12. Para garantizar que el servidor VNC puede acceder al archivo que acabaos de crear, lo hacemos ejecutable mediante el comando: 
+```
+sudo chmod +x ~/.vnc/xstartup
+```
+
+13. Se debe reiniciar nuevamente el servidor con el comando ```vncserver```.
+
+14. Para finalizar, en su máquina ejecute el siguiente comando: 
+```
+ssh -L 5901:127.0.0.1:5901 -C -N -l root 52.117.138.40
+```
+y cuando se le solicite ingresar una contraseña coloque la determinada en el [Paso 1. Datos de configuración](#Paso-1). Despues de ingresar la contraseña el proceso en la ventana se quedará cargando y usted habrá finalizado la configuración.
 
 
 
