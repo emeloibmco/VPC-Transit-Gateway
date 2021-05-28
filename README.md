@@ -91,12 +91,11 @@ sudo chmod +x ~/.vnc/xstartup
 
 13. Se debe reiniciar nuevamente el servidor con el comando ```vncserver```.
 
-14. Para finalizar, en su máquina ejecute el siguiente comando: 
+14. Para finalizar, en su máquina ejecute el siguiente comando (recuerde colocar en \<IP> la IP pública o flotante según sea el caso): 
 ```
-ssh -L 5901:127.0.0.1:5901 -C -N -l root 52.117.138.40
+ssh -L 5901:127.0.0.1:5901 -C -N -l root <IP>
 ```
-y cuando se le solicite ingresar una contraseña coloque la determinada en el [Paso 1. Datos de configuración](#Paso-1). Despues de ingresar la contraseña el proceso en la ventana se quedará cargando y usted habrá finalizado la configuración.
-
+Cuando se le solicite ingresar una contraseña coloque la determinada en el [Paso 1. Datos de configuración](#Paso-1). Despues de ingresar la contraseña el proceso en la ventana se quedará cargando y usted habrá finalizado la configuración.
 
 
 ## Paso 3
