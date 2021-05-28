@@ -17,7 +17,16 @@ Este tutorial se enfoca en la configuración necesaria para habilitar el entorno
 ### Datos de configuración ⚙
 Para realizar la configuración del entorno gráfico de una VSI Linux, debe contar con los siguientes datos:
 1. Contraseña:
-2. IP:
+
+> Nota 1: En caso de contar con una VSI Linux en VCP, debe realizar de forma previa la respectiva configuración para agregar una nueva contraseña. La ruta que le permite encontrar su VSI en VPC es Menú de Navegación → Infraestructura VPC → Instancias de Servidor Virtual.
+>
+> Nota 2: En caso de contar con una VSI Linux en Infraestructura Clásica, obtenga la contraseña. Para ello, en el menú de navegación de click en Infraestructura Clásica y posteriormente en el dispositivo que va a configurar. Luego de esto, de click en la pestaña contraseñas y guarde la contraseña.
+
+3. IP:
+
+> Nota 1: En caso de contar con una VSI Linux en VCP, la IP que se utilizará en este tutorial es la IP Flotante, la cual puede encontrar dentro de su VSI en la sección **Interfaces de red**.
+
+> Nota 2: En caso de contar con una VSI Linux en Infraestructura Clásica, utilice la IP pública, la cual puede encontrar dentro de su VSI en la pestaña **Visión general** y la sección **Detalles de la red.**
 
 ## Paso 2
 ### Habilitar el entorno gráfico de una VSI Linux 🛠
