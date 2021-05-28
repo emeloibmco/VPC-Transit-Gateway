@@ -35,6 +35,9 @@ Para habilitar el entorno gráfico de su VSI Linux, siga los pasos que se muestr
 ``` 
 ssh root@<IP> 
 ```
+Una vez coloque este comando se le solicitará que coloque la contraseña determinada en el [Paso 1. Datos de configuración](#Paso-1).
+
+2. 
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
