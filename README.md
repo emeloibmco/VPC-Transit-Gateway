@@ -65,6 +65,28 @@ vncserver
 vncserver -kill :1
 ```
 
+9. Se debe modificar el archivo *xstartup*. Antes de ello se realiza una copia de seguridad del original, con el comando: 
+```
+mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
+``` 
+
+10. Se crea un nuevo archivo xstartup y se abre en el editor de texto. Para ello se escribe: 
+``` 
+nano ~/.vnc/xstartup
+``` 
+
+11. Dentro de este archivo se ingresan las siguientes líneas:
+```
+~/.vnc/xstartup
+#!/bin/bash
+xrdb $HOME/.Xresources
+startxfce4 &
+```
+
+12. 
+
+
+
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
 
