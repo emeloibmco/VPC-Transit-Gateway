@@ -108,7 +108,7 @@ Cuando se le solicite ingresar una contraseña coloque la determinada en el [Pas
 Un vez ha realizado la configuración el paso siguiente es acceder al entorno gráfico. Para ello, realice los siguientes pasos:
 
 1. Abra el TightVNC Viewer en su máquina. 
-2. En la sección *connection*, en *remote host* colo su IP pública o flotante según sea el caso y el puerto 5901, de la siguiente manera: ```<IP>:5901```.
+2. En la sección *Connection*, en *Remote Host* colo su IP pública o flotante según sea el caso y el puerto 5901, de la siguiente manera: ```<IP>:5901```.
 <p align="center"><img width="500" src="https://github.com/emeloibmco/VPC-acceso-VNC/blob/main/Imagenes/TightVNC.PNG"></p>
 
 3. De click en **Connect**. Posterioemnte le aparecerá una ventana en donde se le pide que ingrese una contraseña. En este campo ingrese la contraseña que creó el ítem 6 del [Paso 2. Habilitar el entorno gráfico de una VSI Linux](#Paso-2).
