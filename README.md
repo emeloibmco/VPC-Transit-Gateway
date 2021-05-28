@@ -46,6 +46,19 @@ sudo apt-get update
 sudo apt install xfce4 xfce4-goodies
 ```
 
+4. Debe instalar dentro de su VSI en *Windows PowerShell* el TightVNC. Para ello coloque lo siguiente: 
+```
+sudo apt install tightvncserver
+```
+
+5. Una vez finalizada la instalación se realiza la configuración inicial del servidor VNC con el comando:
+```
+vncserver
+```
+
+6. Luego, le pedirá introducir y verificar una nueva contraseña, la cual le permitirá acceder al entorno gráfico de su VSI Linux. Asigne una contraseña distinta a la determinada en el [Paso 1. Datos de configuración](#Paso-1) y guardela para utilizarla más adelante.
+
+7. Despues de introducir una contraseña le saldrá como respuesta el siguiente anuncio  ``` Output   Would you like to enter a view-only password (y/n)? ```. Como respuesta coloque ```n```.
 
 
 ## Paso 3
