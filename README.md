@@ -58,8 +58,12 @@ vncserver
 
 6. Luego, le pedirá introducir y verificar una nueva contraseña, la cual le permitirá acceder al entorno gráfico de su VSI Linux. Asigne una contraseña distinta a la determinada en el [Paso 1. Datos de configuración](#Paso-1) y guardela para utilizarla más adelante.
 
-7. Despues de introducir una contraseña le saldrá como respuesta el siguiente anuncio  ``` Output   Would you like to enter a view-only password (y/n)? ```. Como respuesta coloque ```n```.
+7. Despues de introducir una contraseña le saldrá como respuesta el siguiente anuncio  ``` Output Would you like to enter a view-only password (y/n)? ```. Como respuesta coloque ```n```.
 
+8. Después de esto se debe detener la instancia del servidor VNC, para ello se escribe el siguiente comando: 
+```
+vncserver -kill :1
+```
 
 ## Paso 3
 ### Acceder al entorno gráfico 💻🏆
